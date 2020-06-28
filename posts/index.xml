@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello</title>
-    <link>https://1fswx5m.github.io/</link>
-    <description>Recent content on Hello</description>
+    <title>Posts on Hello</title>
+    <link>https://1fswx5m.github.io/posts/</link>
+    <description>Recent content in Posts on Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Hello Request.</copyright>
     <lastBuildDate>Sun, 28 Jun 2020 20:11:49 +0100</lastBuildDate>
     
-	<atom:link href="https://1fswx5m.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://1fswx5m.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://1fswx5m.github.io/about/</link>
-      <pubDate>Sun, 28 Jun 2020 20:24:52 +0100</pubDate>
-      
-      <guid>https://1fswx5m.github.io/about/</guid>
-      <description>Hello from about</description>
-    </item>
     
     <item>
       <title>B</title>
